@@ -1,6 +1,6 @@
 ### <h1 align="center">Filip Orczynski</h1>
 
-I'm a passionate Data Analyst and Computer Science graduate currently pursuing a Master's in Data Analytics at the University of Warwick. My projects demonstrate my ability to analyse complex datasets, build predictive models, and visualise data effectively.
+First Class Honours Computer Science Graduate with a focus on data analytics and machine learning, currently pursuing an MSc in Data Analytics at the University of Warwick. My projects demonstrate my ability to analyse complex datasets, build predictive models, and visualise data effectively.
 
 ---
 
