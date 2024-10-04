@@ -30,7 +30,7 @@ First Class Honours Computer Science Graduate with a focus on data analytics and
 
 - **📱 [WTWear: Weather-Based Clothing Suggestion App](https://github.com/filiporcz/wtwear)**  
   *Personal Project | Kotlin, Java, Android Studio*  
-  - Independently designed and developed WTWear, a mobile app that provides personalised clothing suggestions based on local weather and temperature forecasts.
+  - Designed and developed WTWear, a mobile app that provides personalised clothing suggestions based on local weather and temperature forecasts.
   - Utilised Android Studio with Kotlin and Java to build the app’s core functionality and create a user-friendly interface.
   - Demonstrated cross-disciplinary skills in mobile app development, API integration, and user experience design, enhancing both technical and creative capabilities.
  
