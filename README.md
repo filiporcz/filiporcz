@@ -54,5 +54,5 @@ First Class Honours Computer Science Graduate with a focus on data analytics and
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/api?username=filiporcz&show_icons=true&theme=dark)
-![Top Languages]([https://github-readme-stats.vercel.app](https://github-readme-stats-ruby-one.vercel.app)/api/top-langs/?username=filiporcz&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=filiporcz&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=filiporcz&layout=compact&theme=dark)
