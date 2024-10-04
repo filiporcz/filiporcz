@@ -4,7 +4,7 @@ First Class Honours Computer Science Graduate with a focus on data analytics and
 
 ---
 
-### 🛠️ Skills
+### 📚 Skills
 - **💻 Languages**: Python, R, SQL, C#, C++, MATLAB, Java, Kotlin (Java)
 - **🧰 Frameworks** Pandas, NumPy, Matplotlib, Seaborn, Django, Flask, ReactJS, TensorFlow, PyTorch, Scikit-Learn, Keras
 - **📊 Data Analytics & Mangement**: Excel, Tableau
@@ -14,7 +14,7 @@ First Class Honours Computer Science Graduate with a focus on data analytics and
 
 ---
 
-### Projects
+### 🛠️ Projects
 
 - **🎶 [Meladee: Machine Learning-Based Music Genre Classification](https://github.com/filiporcz/music-genre-classification)**  
   *BSc (Hons) Dissertation | Python, TensorFlow, PyTorch, Scikit-Learn, Keras*  
