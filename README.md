@@ -16,25 +16,25 @@ First Class Honours Computer Science Graduate with a focus on data analytics and
 
 ### Projects
 
-- **🎶 [Machine Learning-Based Music Genre Classification](https://github.com/YourUsername/music-genre-classification)**  
+- **🎶 [Meladee: Machine Learning-Based Music Genre Classification](https://github.com/filiporcz/music-genre-classification)**  
   *BSc (Hons) Dissertation | Python, TensorFlow, PyTorch, Scikit-Learn, Keras*  
   - Developed a predictive classification model using Convolutional Neural Networks, achieving 58.68% accuracy on a dataset of over 52,000 audio tracks.
   - Extracted time series features from over 40,000 audio waveforms, improving the model’s feature representation and boosting performance by 20%.
   - Applied data pre-processing techniques such as Z-score normalisation, scaling, encoding, and dimensionality reduction (PCA & LDA), resulting in an 18% improvement in the model's F1 score.
 
-- **🩺 [Virtual Healthcare Consultation System](https://github.com/YourUsername/virtual-healthcare-system)**  
+- **🩺 [SmartCare Surgery: Virtual Healthcare Consultation System](https://github.com/filiporcz/virtual-healthcare-system)**  
   *Group Project | Python, Django, HTML, CSS, Docker*  
   - Collaborated in a team to develop a scalable virtual healthcare consultation system using Django, showcasing technical proficiency in large-scale software development and adherence to industrial standards.
   - Integrated external services and enhanced system security using Docker containerisation, improving system functionality and performance.
   - Led four development sprints using Agile methodologies, focusing on iterative development, continuous integration, and timely delivery.
 
-- **📱 [WTWear: Weather-Based Clothing Suggestion App](https://github.com/YourUsername/wtwear)**  
+- **📱 [WTWear: Weather-Based Clothing Suggestion App](https://github.com/filiporcz/wtwear)**  
   *Personal Project | Kotlin, Java, Android Studio*  
   - Independently designed and developed WTWear, a mobile app that provides personalised clothing suggestions based on local weather and temperature forecasts.
   - Utilised Android Studio with Kotlin and Java to build the app’s core functionality and create a user-friendly interface.
   - Demonstrated cross-disciplinary skills in mobile app development, API integration, and user experience design, enhancing both technical and creative capabilities.
  
-- **🔐 [Security Data Analytics and Visualisation](https://github.com/YourUsername/security-data-analytics)**  
+- **🔐 [UWETech: Security Data Analytics and Visualisation](https://github.com/filiporcz/security-data-analytics)**  
   *Course Project | Python, Pandas, Matplotlib, Seaborn, Tableau*  
   - Analysed network traffic and employee data to detect anomalous behaviour in over 10 employees using Python.
   - Created interactive visualisations with Tableau, Matplotlib, and Seaborn to streamline incident investigations and reduce analysis time.
