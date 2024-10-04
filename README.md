@@ -16,19 +16,19 @@ First Class Honours Computer Science Graduate with a focus on data analytics and
 
 ### 🛠️ Projects
 
-- **🎶 [Meladee: Machine Learning-Based Music Genre Classification](https://github.com/filiporcz/music-genre-classification)**  
+- **🎶 [Meladee: Machine Learning-Based Music Genre Classification](https://github.com/filiporcz/Meladee)**  
   *BSc (Hons) Dissertation | Python, TensorFlow, PyTorch, Scikit-Learn, Keras*  
   - Developed a predictive classification model using Convolutional Neural Networks, achieving 58.68% accuracy on a dataset of over 52,000 audio tracks.
   - Extracted time series features from over 40,000 audio waveforms, improving the model’s feature representation and boosting performance by 20%.
   - Applied data pre-processing techniques such as Z-score normalisation, scaling, encoding, and dimensionality reduction (PCA & LDA), resulting in an 18% improvement in the model's F1 score.
 
-- **🩺 [SmartCare Surgery: Virtual Healthcare Consultation System](https://github.com/filiporcz/virtual-healthcare-system)**  
-  *Group Project | Python, Django, HTML, CSS, Docker*  
+- **🩺 [SmartCare Surgery: Virtual Healthcare Consultation System](https://github.com/filiporcz/SmartCare-Surgery)**  
+  *Group Project | Python, Django, JavaScript, HTML, CSS, Docker*  
   - Collaborated in a team to develop a scalable virtual healthcare consultation system using Django, showcasing technical proficiency in large-scale software development and adherence to industrial standards.
   - Integrated external services and enhanced system security using Docker containerisation, improving system functionality and performance.
   - Led four development sprints using Agile methodologies, focusing on iterative development, continuous integration, and timely delivery.
 
-- **📱 [WTWear: Weather-Based Clothing Suggestion App](https://github.com/filiporcz/wtwear)**  
+- **📱 [WTWear: Weather-Based Clothing Suggestion App](https://github.com/filiporcz/WTWear)**  
   *Personal Project | Kotlin, Java, Android Studio*  
   - Designed and developed WTWear, a mobile app that provides personalised clothing suggestions based on local weather and temperature forecasts.
   - Utilised Android Studio with Kotlin and Java to build the app’s core functionality and create a user-friendly interface.
